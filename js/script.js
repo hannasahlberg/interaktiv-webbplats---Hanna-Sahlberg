@@ -1,11 +1,1 @@
-const lunchInfo = document.querySelector('.lunch-info');
-const lunchBtn = document.querySelector('.lunch-btn');
-
-lunchBtn.addEventListener('click', hideShow =>{
-    if(lunchInfo.style.display === 'block'){
-        lunchInfo.style.display = 'none';
-
-    }else{
-        lunchInfo.style.display= 'block';
-    }
-})
+const lunchInfo=document.querySelector(".lunch-info"),lunchBtn=document.querySelector(".lunch-btn");lunchBtn.addEventListener("click",n=>{"block"===lunchInfo.style.display?lunchInfo.style.display="none":lunchInfo.style.display="block"});
