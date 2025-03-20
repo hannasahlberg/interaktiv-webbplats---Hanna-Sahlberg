@@ -1,0 +1,55 @@
+{
+    "menu": {
+        "appetizer": [
+            {
+                "name": "skagentoast",
+                "description" : "En klassisk skagentoast bestående av en smakrik blandning av räkor, majonnäs, dill och citron, serverad på en knaprig skiva rostat bröd.",
+                "price" : 95
+            },
+            {
+                "name": "Tartar på Röding ",
+                "description" : "Finhackad röding blandad med dill, senap och en syrlig vinägrett",
+                "price" : 110
+            },
+            {
+                "name": "Rödbetor med getost och valnötter ",
+                "description" : "Rostade rödbetor serveras med krämig getost och rostade valnötter. (nötter)",
+                "price" : 85
+            }  
+        ],
+        "main" : [
+            {
+                "name": "Grillad entrecôte med chimichurri ",
+                "description" : "Saftig entrecôte serverad med en frisk chimichurri. ",
+                "price" : 299
+            },
+            {
+                "name": "Vegansk risotto med svamp och truffle",
+                "description" : "Krämig risotto med svamp och en touch av tryffelolja.",
+                "price" : 199
+            },
+            {
+                "name": "Miso-glaserad lax med sesam och grönsaker",
+                "description" : "Lax penslad med misoglaze och serverad med wokade grönsaker.",
+                "price" : 239
+            }
+        ],
+        "dessert" : [
+            {
+                "name": "Pavlova med bär och maräng",
+                "description" : "En krispig marängbotten toppad med vispgrädde och färska bär.",
+                "price" : 89
+            },
+            {
+                "name": "Crème brûlée med lakrits",
+                "description" : "En klassisk crème brûlée med en twist av lakrits.",
+                "price" : 105
+            },
+            {
+                "name": "Blåbärsorbet med mynta",
+                "description" : "En uppfriskande sorbet på blåbär, serverad med färsk mynta.",
+                "price" : 105
+            }
+        ]
+    }
+}
